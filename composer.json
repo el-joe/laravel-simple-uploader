@@ -1,5 +1,5 @@
 {
-    "name": "laravel/simple-uploader",
+    "name": "eljoe/laravel-simple-uploader",
     "description": "Simple Laravel file upload package",
     "type": "library",
     "license": "MIT",
@@ -16,6 +16,7 @@
         }
     },
     "require": {
-        "php": "^8.0"
+        "php": "^8.0",
+        "illuminate/support": "^10.0|^11.0"
     }
 }
