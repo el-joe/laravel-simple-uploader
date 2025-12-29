@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\SimpleUploader\Providers;
+namespace Laravel\SimpleUploader;
 
 use Illuminate\Support\ServiceProvider;
 
