@@ -1,0 +1,21 @@
+{
+    "name": "el-joe/simple-uploader",
+    "description": "Simple Laravel file upload package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\SimpleUploader\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laravel\\SimpleUploader\\SimpleUploaderServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
