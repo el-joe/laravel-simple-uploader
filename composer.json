@@ -1,5 +1,5 @@
 {
-    "name": "el-joe/simple-uploader",
+    "name": "laravel/simple-uploader",
     "description": "Simple Laravel file upload package",
     "type": "library",
     "license": "MIT",
